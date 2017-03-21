@@ -1,8 +1,12 @@
 # Anubis-Maze-VR
 
-Virtual Reality Maze Game Using Unity and GVR.
+Virtual Reality Maze Game Using Unity 3D and GVR.
 
 ## Gameplay Video
+
+Gameplay from the start to the end.
+
+[![Alt text](https://img.youtube.com/vi/zNbxsp5znZc/0.jpg)](https://www.youtube.com/watch?v=zNbxsp5znZc "Click to play on youtube.com")
 
 ## Main Components
 
@@ -20,10 +24,6 @@ Virtual Reality Maze Game Using Unity and GVR.
 * **Packages :**
   * [Google VR SDK for Unity](https://developers.google.com/vr/unity/).
   * [Unity Standard Assets](https://www.assetstore.unity3d.com/en/#!/content/32351).
-* **Art :**
-  * [Autodesk Maya 3D](http://www.autodesk.com/products/maya/overview).
-  * [Substance Painter](https://www.allegorithmic.com/products/substance-painter)
-  * [Adobe Photoshop](http://www.adobe.com/mena_en/products/photoshop.html)
 
 ## Target Platform
 
@@ -49,6 +49,10 @@ I used fire particle system from standard assets and customized it.
 ## Notes
 
 This Project was required for Udacity _**VR Software Development Course**_ in [VR developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
+
+## Issues
+* **baking lights issue :**
+When I bake the light the scene light looks very wrong which cause performance issue on mobile phones due to non-backed lights.
 
 ## License
 
